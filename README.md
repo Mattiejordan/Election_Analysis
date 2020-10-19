@@ -11,13 +11,14 @@ Colorado hailed a total of 369,711 total votes cast. Of those votes, the top run
 #### *Charles Casper Stockham 23.0%*
 #### *Raymon Anthony Doane  3.1%*
 
+![Candidate_vote_chart](Candidate_vote_chart.png)
 
 Seth and Tom please see the attached voter information by county.  
-**Denver** county collected the highest number of voters to the polls, 306,055! That is 82.8% of voters from Denver county alone. Next, Jefferson county had 38,855 voters counting for 10.5% and the Arapahoe county collected 24,801 voters which is about 6.7% of the election participants. 
+**Denver** county collected the highest number of voters to the polls, **306,055!** That is 82.8% of voters from Denver county alone. Next, Jefferson county had 38,855 voters counting for 10.5% and the Arapahoe county collected 24,801 voters which is about 6.7% of the election participants. 
 
 
 ![County_vote_pie](County_vote_pie.png)
-### *Denver    82.8%*
+### **Denver    82.8%**
 #### *Jefferson 10.5%*
 #### *Arapahoe  6.7%*
 
@@ -27,8 +28,9 @@ Seth and Tom please see the attached voter information by county.
 
 Of Colorado state's 369,711 votes it appears Denver County carried the majority of the election with nearly 83% of Colorado's voting power. 
 
+
 ## Challenge Summary
-The election result data linked below is the full compilation of votes by ID, candidate and county. Seth and Tom, if you are interested an additional visulization may be compiled for another query. The percentage of each Colorado county's favorite candidates may be surmized with this same data set. Would you be interested to know if one of the three counties above was in particular favor of a specifc candidate? This kind of information may be helpful to know to prepare for the next election. 
+This election audit was conducted with Python scripting software. This Visual Studio Code is written to pull specific data from a large Election_results database and print specific analyses to text. The election result data linked below is the full compilation of votes by ID, candidate and county. Seth and Tom, if you are interested an additional visulization may be compiled for another query. The percentage of each Colorado county's favorite candidates may be surmized with this same data set. Would you be interested to know if one of the three counties above was in particular favor of a specifc candidate? This kind of information may be helpful to know to prepare for the next election. Similarly this python script can be easily reused for an audit of an election in another state with a data source containing votes by ID, candidate and county for that state.
     
 ## Resources
 -Data Source: ![Election_Results](election_results.csv)
