@@ -33,5 +33,5 @@ Of Colorado state's 369,711 votes it appears Denver County carried the majority 
 This election audit was conducted with Python scripting software. This Visual Studio Code is written to pull specific data from a large Election_results database and print specific analyses to text. The election result data linked below is the full compilation of votes by ID, candidate and county. Seth and Tom, if you are interested an additional visulization may be compiled for another query. The percentage of each Colorado county's favorite candidates may be surmized with this same data set. Would you be interested to know if one of the three counties above was in particular favor of a specifc candidate? This kind of information may be helpful to know to prepare for the next election. Similarly this python script can be easily reused for an audit of an election in another state with a data source containing votes by ID, candidate and county for that state.
     
 ## Resources
--Data Source: ![Election_Results](resources/election_results.csv)
+-Data Source: ![Resources/election_results](Resources/election_results.csv)
 -Software: Python 3.6.1, Visual Studio Code, 1.38.1
