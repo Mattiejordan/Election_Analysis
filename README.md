@@ -17,7 +17,7 @@ Seth and Tom please see the attached voter information by county.
 
 
 ![County_vote_pie](County_vote_pie.png)
-### **Denver    82.8%*
+### *Denver    82.8%*
 #### *Jefferson 10.5%*
 #### *Arapahoe  6.7%*
 
@@ -27,8 +27,8 @@ Seth and Tom please see the attached voter information by county.
 
 Of Colorado state's 369,711 votes it appears Denver County carried the majority of the election with nearly 83% of Colorado's voting power. 
 
-##Challenge Summary
-
+## Challenge Summary
+The election result data linked below is the full compilation of votes by ID, candidate and county. Seth and Tom, if you are interested an additional visulization may be compiled for another query. The percentage of each Colorado county's favorite candidates may be surmized with this same data set. Would you be interested to know if one of the three counties above was in particular favor of a specifc candidate? This kind of information may be helpful to know to prepare for the next election. 
     
 ## Resources
 -Data Source: ![Election_Results](election_results.csv)
