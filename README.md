@@ -11,30 +11,25 @@ Colorado hailed a total of 369,711 total votes cast. Of those votes, the top run
 #### *Charles Casper Stockham 23.0%*
 #### *Raymon Anthony Doane  3.1%*
 
-##### **Congratulations to Diana DeGette for winning the Colorado Election**
 
+Seth and Tom please see the attached voter information by county.  
+**Denver** county collected the highest number of voters to the polls, 306,055! That is 82.8% of voters from Denver county alone. Next, Jefferson county had 38,855 voters counting for 10.5% and the Arapahoe county collected 24,801 voters which is about 6.7% of the election participants. 
 
 
 ![County_vote_pie](County_vote_pie.png)
-## Resources
--Data Source: election_results.csv
--Software: Python 3.6.1, Visual Studio Code, 1.38.1
+### **Denver    82.8%*
+#### *Jefferson 10.5%*
+#### *Arapahoe  6.7%*
 
-#Summary
-The Analysis of the election show that:
-- There were "x" votes cast in the election.
-- The candidates were:
-  -c 1
-  -c 2
-  -c 3
-  -The candidate results were:
-    -Candidate 1 received "x%" of the vote and "y" number of votes.
-    -Can 2
-    -Can 3
-  -The winner of the election was:
-    -Candidate (1, 2, or 3), who received "x%" of the vote and "y" number of votes.
+
+# Summary
+### **Congratulations to Diana DeGette for winning the Colorado Election**
+
+Of Colorado state's 369,711 votes it appears Denver County carried the majority of the election with nearly 83% of Colorado's voting power. 
+
+##Challenge Summary
+
     
-    ##Challenge Overview
-    
-    ##Challenge Summary
-    
+## Resources
+-Data Source: ![Election_Results](election_results.csv)
+-Software: Python 3.6.1, Visual Studio Code, 1.38.1
