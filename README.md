@@ -1,7 +1,10 @@
 # Election_Analysis
 
-##Project Ocerview
-Colorado election audit
+## Project Ocerview
+### Colorado Election Commission Audit
+
+Hello Seth and Tom, here is an anlysis of the Colorado election with additional information by county.
+Colorado hailed a total of 369,711 total votes cast. Of those votes, the top running candidates are  Diana DeGette, Charles Casper Stockham, and Raymon Anthony Doane. Diana DeGette swept the state with landslide win earning 272,892 of the state's vote. Next, Charles Casper Stockham earned 85,213 and lastly Raymon Anthony Doane carried a modest 11,606 votes. 
 
 1. Calculate the total number of votes cast.
 2. Get a couplete list of candidates who received votes.
