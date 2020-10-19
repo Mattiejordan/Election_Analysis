@@ -26,7 +26,7 @@ Seth and Tom please see the attached voter information by county.
 # Summary
 ### **Congratulations to Diana DeGette for winning the Colorado Election**
 
-Of Colorado state's 369,711 votes it appears Denver County carried the majority of the election with nearly 83% of Colorado's voting power. 
+Of Colorado state's 369,711 votes Diana DeGette earned 272,892 of them. Also, Denver County carried the majority of the election with nearly 83% of Colorado's voting power. 
 
 
 ## Challenge Summary
